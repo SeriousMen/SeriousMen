@@ -1,4 +1,4 @@
-### Hi there 👋
+### HI!  Introduce Myself briefly. 👋
 
 <!--
 **SeriousMen/SeriousMen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 - 📚
 -->
 
-## TOOLS && LANGUAGE
 
-### used at least once
 
-<div align=center><h1>📫 TOOLS && LANGUAGE </h1></div>
+<div align=center><h1>📫 TOOLS && SKILLS </h1></div>
 
 <h3> 🌱 used at least once - used often or sometimes -</h3>
 <div align=center> 
