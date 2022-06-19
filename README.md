@@ -18,9 +18,14 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
 <div align=center><h1>📫 TOOLS && SKILLS </h1></div>
 
-<h3> 🌱 used at least once - used often or sometimes -</h3>
+<h3 aling=center> 🌱 used at least once </h3>
+<h4 aling=center > - used often or sometimes - </h4>
 <div align=center> 
 
   
